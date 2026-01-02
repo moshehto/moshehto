@@ -10,7 +10,7 @@ Nice to meet you! I’m a Software Engineering student who enjoys working on bac
 * 🛠️  Enjoy working with modern frameworks, cloud platforms, and developer tooling  
 * 📚  Always learning more about system design, scalability, and software architecture
 
-Feel free to connect — I’m always happy to meet new people and meet like-minded individuals!
+Feel free to connect, I’m always happy to meet new people and meet like-minded individuals!
 
 
 ## Tech Stack
